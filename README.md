@@ -1,5 +1,3 @@
-# Design_Patterns
-
 This is a repository containing brief explanations and code samples(msvc projects) for the following design patterns:
 
 * [Strategy Pattern](Strategy_Pattern/readme.md)
